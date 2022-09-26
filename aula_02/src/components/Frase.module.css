@@ -1,0 +1,16 @@
+/* No React não é possível criar classes em CSS que tenham como separador
+do nome um traço - . por exemplo: .classe-qualquer
+Para juntar dois nomes, você pode usar o underline ou CamelCase
+Por exemplo: .classeQualquer ou .classe_qualquer
+*/
+
+.fraseContainer{
+    background-color: #333;
+    border: 1px solid #111;
+}
+
+.fraseContent{
+    color: #fff;
+    background-color: #333;
+    margin: 0;
+}
